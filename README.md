@@ -1,5 +1,9 @@
 # Moth & Lantern — Five Heists
 
+[![make.fun · best-stealth-game-20261121-1759](https://make.fun/badge/best-stealth-game-20261121-1759.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+[![rank](https://make.fun/badge/best-stealth-game-20261121-1759/bsnpg/moth-lantern-stealth-v4/rank.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+[![reward](https://make.fun/badge/best-stealth-game-20261121-1759/bsnpg/moth-lantern-stealth-v4/reward.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+
 A complete top-down stealth game for the make.fun best-stealth-game bounty.
 You are a moth thief. Five heists, five rooms, twenty-five guards — steal the
 objective in each room and reach the exit unseen.
